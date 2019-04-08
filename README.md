@@ -12,3 +12,8 @@ problem file [profile.blade.php](https://github.com/yogithesymbian/laravel-belon
 model file [User.php](https://github.com/yogithesymbian/laravel-belongsto/blob/master/app/User.php)
 
 get('profile/{username}') [web.php](https://github.com/yogithesymbian/laravel-belongsto/blob/master/routes/web.php)
+
+localhost:8000/profile/arif
+view comments 
+
+localhost:8000/profile/yogi
