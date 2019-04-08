@@ -1,6 +1,7 @@
 # laravel-belongsto-5.5.\*
 
 belongsTo Polymorphism
+[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://github.com/yogithesymbian/laravel-belongsto)
 
 ### export MySQL
 
