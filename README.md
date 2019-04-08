@@ -1,0 +1,2 @@
+# laravel-belongsto
+belongsTo Polymorphism
